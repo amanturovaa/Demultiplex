@@ -12,7 +12,7 @@
 
 2. Per-base NT distribution
     1. Use markdown to insert your 4 histograms here.
-       ![Histogram 1](read1_quality_distribution.png)
+       ![Histogram 1](Demultiplex/read1_quality_distribution.png)
     3. 3976613
     4. 3328051
     
