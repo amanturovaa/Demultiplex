@@ -1,0 +1,7 @@
+Percentage of reads from each sample
+Overall amount of index swapping
+
+Total reads processed: 363,246,735
+Matched pairs: 286,794,555 (78.95%)
+Index hopped: 461,756 (0.13%)
+Unknown/low quality: 75,990,424 (20.92%)
